@@ -1,4 +1,4 @@
-# Atari_Games_Reinforcement_Learning
+# Atari_RL
 
 ## Introduzione
 Questa guida ha lo scopo di illustrare i passi necessari per permettere ad un agente di [Reinforcement Learning](https://it.wikipedia.org/wiki/Apprendimento_per_rinforzo) di imparare a giocare a diversi giochi dell'Atari 2600.  
@@ -24,7 +24,7 @@ Impostare **"tensorflow"** come nome e scegliere **Python 3.6** come Packages
    
    
 ## Preparazione
-Selezionare, da Environments, tensorflow e aprire il terminale come mostrato nella seguente figura. 
+Selezionare, da Environments, tensorflow e aprire il terminale come mostrato nella seguente figura.   
 ![alt text](https://www.frenkowski.it/wp-content/uploads/2018/12/play.png)
 
 Se tutto è andato a buon fine avrete (tensorflow) seguito da un percorso (ad esempio C:\Users\ponti\) all'inizio del vostro terminale. 
