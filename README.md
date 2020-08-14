@@ -1,4 +1,4 @@
-# Atari_RL
+# Atari_Games_Reinforcement_Learning
 
 ## Introduzione
 Questa guida ha lo scopo di illustrare i passi necessari per permettere ad un agente di [Reinforcement Learning](https://it.wikipedia.org/wiki/Apprendimento_per_rinforzo) di imparare a giocare a diversi giochi dell'Atari 2600.  
